@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "br.eteczl.edu.NetworkInformation"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "br.eteczl.edu.NetworkInformation"
+    }
+  },
+  "dependent_plugins": {}
+}
